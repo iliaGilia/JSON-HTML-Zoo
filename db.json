@@ -1,0 +1,16 @@
+{
+  "Zoo": [
+    {
+      "type": "Dog",
+      "legs": 4,
+      "favFood": "bonzo",
+      "id": 1
+    },
+    {
+      "type": "Bird",
+      "legs": 2,
+      "favFood": "nuts",
+      "id": 2
+    }
+  ]
+}
